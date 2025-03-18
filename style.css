@@ -701,7 +701,7 @@ h3 {
     }
 
     #nav-sp nav ul {
-      padding-left: none;
+      padding-left: 0;
     }
 
     #nav-sp nav li {
